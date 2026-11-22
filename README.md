@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Drezx.</h1>
 
-<!--
-**drezvolx/drezvolx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Developer</b> • <code>Android Learner</code><br>
+  <sub>Quietly crafting code.</sub>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌑 About
+Learning in silence, building in the dark.<br>
+Every project teaches me something new.
+
+### 🧰 Stack
+`Kotlin` `Jetpack Compose`
+
+<p align="center">
+  <sub>Still learning. Still building.</sub>
+</p>
