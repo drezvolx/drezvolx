@@ -11,7 +11,7 @@
 Learning in silence, building in the dark.<br>
 Every project teaches me something new.
 
-### 🧰 Stack
+### 📚 Stack
 `Kotlin` `Jetpack Compose`
 
 <p align="center">
