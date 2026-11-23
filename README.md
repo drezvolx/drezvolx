@@ -30,5 +30,5 @@ Write clean. Think simple.<br>
 Get better every day.
 
 ### 📫 Contact
-Discord: drezvolx
+Discord: drezvolx<br>
 Always open to learn.
