@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Indonesia-0d1117?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-### 🌑 About
+### 🌐 About
 Learning in silence.<br>
 Every project teaches me something new.
+
