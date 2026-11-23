@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Drezx/Drezx/main/banner.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/drezvolx/drezvolx/main/banner.jpg" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=140&section=header&text=Drezx.&fontColor=ffffff&fontSize=64&fontAlignY=45&animation=fadeIn&desc=Born%20to%20debug.&descAlignY=75&descSize=18&descColor=8b949e" width="100%" />
 
