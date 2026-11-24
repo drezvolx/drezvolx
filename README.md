@@ -3,33 +3,43 @@
 <h1 align="center">Drezx.</h1>
 
 <p align="center">
-  <sub><b>D E V E L O P E R</b> &nbsp;/&nbsp; A N D R O I D &nbsp; L E A R N E R</sub>
+  <b>Developer</b> / Android Learner
 </p>
 
-<br>
-
 <p align="center">
-  <code>Idiomatic.</code> &nbsp; <code>Think simple.</code>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Idiomatic-1c1c1c?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Think_simple-1c1c1c?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Indonesia-1c1c1c?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <br>
 
 ---
 
-<p align="center">
-  <sub>C O N T A C T</sub>
-</p>
+<p align="center"><b>Currently</b></p>
 
 <p align="center">
-  Discord &nbsp;·&nbsp; <code>drezvolx</code>
+  <img src="https://img.shields.io/badge/Coroutines-1c1c1c?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-1c1c1c?style=flat-square&logo=jetpackcompose&logoColor=white" />
+</p>
+
+---
+
+<p align="center"><b>Stack</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-1c1c1c?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-1c1c1c?style=flat-square&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-1c1c1c?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-1c1c1c?style=flat-square&logo=firebase&logoColor=white" />
+</p>
+
+---
+
+<p align="center"><b>Contact</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-drezvolx-1c1c1c?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
 <p align="center">
