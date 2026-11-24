@@ -156,8 +156,4 @@
   <img src="./footer.svg" width="100%" alt="Animated monochrome gradient footer" />
 </p>
 
-<p align="center">
-  <sub>DREZX. / LEARNING BY BUILDING</sub>
-</p>
-
 <br>
