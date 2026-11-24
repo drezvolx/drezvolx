@@ -1,29 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=200&section=header&text=Drezx.&fontColor=ffffff&stroke=000000&strokeWidth=2&fontSize=64&fontAlignY=42&desc=Born%20to%20debug.&descAlignY=68&descSize=18&descColor=ffffff" width="100%" />
+<br>
 
-**Developer** • `Android Learner`
+<h1 align="center">Drezx.</h1>
 
-![Indonesia](https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white)
+<p align="center">
+  <sub><b>D E V E L O P E R</b> &nbsp;/&nbsp; A N D R O I D &nbsp; L E A R N E R</sub>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=About&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+<br>
 
-Build. Break. Debug. Repeat.<br>
-Every project teaches me something new.
+<p align="center">
+  <code>Idiomatic.</code> &nbsp; <code>Think simple.</code>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Currently&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+<br>
 
-Learning Android.<br>
-Building small. Breaking often.
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Stack&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+<br>
 
-Kotlin • Android Studio • Git • Firebase
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Focus&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+<p align="center">
+  <sub>C O N T A C T</sub>
+</p>
 
-Idiomatic code. Think simple.<br>
-Get better every day.
+<p align="center">
+  Discord &nbsp;·&nbsp; <code>drezvolx</code>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Contact&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+<p align="center">
+  <sub>Always open to learn.</sub>
+</p>
 
-Discord: `drezvolx`<br>
-Always open to learn.
+<br>
