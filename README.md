@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-  <h1><b>DREZX.</b></h1>
+  <h1><b>DREZVOLX.</b></h1>
   <b>LEARNING / BUILDING / ANDROID</b>
 </div>
 
@@ -23,7 +23,7 @@
     <td width="32%" valign="top">
       <div align="center">
         <br>
-        <h1><b>Dz.</b></h1>
+        <h1><b>Dre.</b></h1>
         <b>ANDROID · LEARNING</b>
         <br><br>
       </div>
@@ -149,11 +149,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="./footer.svg" width="100%" alt="Animated monochrome gradient footer" />
-</p>
-
-<br>
