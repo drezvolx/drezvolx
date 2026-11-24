@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:262626,100:000000&height=200&section=header&text=Drezx.&fontColor=ffffff&fontSize=60&fontAlignY=42&desc=Developer%20/%20Android%20Learner&descAlignY=68&descSize=18&descColor=8b949e" width="100%" />
+<br>
+<h1 align="center">Drezx.</h1>
+<p align="center">
+  <sub><b>DEVELOPER</b> &nbsp;/&nbsp; ANDROID &nbsp; LEARNER</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Idiomatic-1c1c1c?style=flat-square&logo=kotlin&logoColor=white" />
@@ -6,18 +10,26 @@
   <img src="https://img.shields.io/badge/Indonesia-1c1c1c?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2&section=header" width="100%" />
+<br>
 
-<p align="center"><b>Currently</b></p>
+---
+
+<p align="center">
+  <sub>C U R R E N T L Y</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coroutines-1c1c1c?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-1c1c1c?style=flat-square&logo=jetpackcompose&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2&section=header" width="100%" />
+<br>
 
-<p align="center"><b>Stack</b></p>
+---
+
+<p align="center">
+  <sub>S T A C K</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-1c1c1c?style=flat-square&logo=kotlin&logoColor=white" />
@@ -26,12 +38,46 @@
   <img src="https://img.shields.io/badge/Firebase-1c1c1c?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2&section=header" width="100%" />
+<br>
 
-<p align="center"><b>Contact</b></p>
+---
+
+<p align="center">
+  <sub>PRINCIPLES</sub>
+</p>
+
+<p align="center">
+  Write less, mean more.<br>
+  Prefer the standard library.<br>
+  Readable beats clever.
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>DAILY &nbsp; LOOP</sub>
+</p>
+
+<p align="center">
+  Build &nbsp;→&nbsp; Break &nbsp;→&nbsp; Debug &nbsp;→&nbsp; Repeat
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>CONTACT</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-drezvolx-1c1c1c?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:262626,100:000000&height=80&section=footer&text=Always%20open%20to%20learn.&fontColor=8b949e&fontSize=14&fontAlignY=50" width="100%" />
+<p align="center">
+  <sub>Always open to learn.</sub>
+</p>
+
+<br>
