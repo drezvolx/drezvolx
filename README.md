@@ -1,38 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=220&section=header&text=Drezx.&fontColor=ffffff&stroke=000000&strokeWidth=2&fontSize=64&fontAlignY=38&desc=Born%20to%20debug.&descAlignY=60&descSize=18&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=200&section=header&text=Drezx.&fontColor=ffffff&stroke=000000&strokeWidth=2&fontSize=64&fontAlignY=42&desc=Born%20to%20debug.&descAlignY=68&descSize=18&descColor=ffffff" width="100%" />
 
-<p align="center">
-  <b>Developer</b> • <code>Android Learner</code>
-</p>
+**Developer** • `Android Learner`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
+![Indonesia](https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white)
 
-<h3 align="center">🌐 About</h3>
-<p align="center">
-  Build. Break. Debug. Repeat.<br>
-  Every project teaches me something new.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=About&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
 
-<h3 align="center">🛠️ Currently</h3>
-<p align="center">
-  Learning Android.<br>
-  Building small. Breaking often.
-</p>
+Build. Break. Debug. Repeat.<br>
+Every project teaches me something new.
 
-<h3 align="center">🧰 Stack</h3>
-<p align="center">
-  Kotlin • Android Studio • Git • Firebase
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Currently&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
 
-<h3 align="center">🎯 Focus</h3>
-<p align="center">
-  Idiomatic code. Think simple.<br>
-  Get better every day.
-</p>
+Learning Android.<br>
+Building small. Breaking often.
 
-<h3 align="center">📫 Contact</h3>
-<p align="center">
-  Discord: <code>drezvolx</code><br>
-  Always open to learn.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Stack&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+
+Kotlin • Android Studio • Git • Firebase
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Focus&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+
+Idiomatic code. Think simple.<br>
+Get better every day.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=50&section=header&text=Contact&fontColor=ffffff&fontSize=22&fontAlign=10" width="100%" />
+
+Discord: `drezvolx`<br>
+Always open to learn.
