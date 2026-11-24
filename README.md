@@ -24,7 +24,7 @@ Building small. Breaking often.
 Kotlin • Android Studio • Git • Firebase
 
 ### 🎯 Focus
-Write clean. Think simple.<br>
+Idiomatic, Think simple.<br>
 Get better every day.
 
 ### 📫 Contact
