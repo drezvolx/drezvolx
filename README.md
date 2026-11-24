@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=480&lines=Born+to+debug.;Learning+in+silence.;Building+in+the+dark.;Every+project+teaches+me+something+new." alt="typing" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Indonesia-0d1117?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
