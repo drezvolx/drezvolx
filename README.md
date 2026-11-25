@@ -7,7 +7,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android_Learner-1c1c1c?style=flat-square&logo=android&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Kotlin-1c1c1c?style=flat-square&logo=kotlin&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Indonesia-1c1c1c?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
